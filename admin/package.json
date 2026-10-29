@@ -21,7 +21,7 @@
     "chart.js": "^4.5.1",
     "class-variance-authority": "^0.7.1",
     "clsx": "^2.1.1",
-    "dompurify": "^3.3.1",
+    "dompurify": "^3.4.17",
     "frappe-gantt": "^1.2.1",
     "lucide-vue-next": "^0.468.0",
     "marked": "^17.0.2",
@@ -37,7 +37,7 @@
     "vuedraggable": "^4.1.0"
   },
   "devDependencies": {
-    "@types/dompurify": "^3.0.5",
+    "@types/dompurify": "^3.2.0",
     "@types/node": "^22.10.5",
     "@typescript-eslint/eslint-plugin": "^7.0.0",
     "@typescript-eslint/parser": "^7.0.0",
