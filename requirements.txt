@@ -41,7 +41,7 @@ scipy>=1.11.0  # Audio resampling for telephony (24kHz → 8kHz)
 # torchaudio==2.3.1
 
 # Pin transformers for TTS compatibility (4.45+ breaks BeamSearchScorer import)
-transformers>=4.41.0,<4.45.0
+transformers>=5.20.2,<5.21.0
 
 # System monitoring
 psutil==5.9.8
